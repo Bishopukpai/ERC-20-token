@@ -32,7 +32,7 @@ A fully functional ERC20 token smart contract deployed on the Ethereum testnet (
 
 In your terminal, run:
 
-```git clone https://github.com/your-username/LongToken-smartcontract.git```
+```git clone [https://github.com/your-username/LongToken-smartcontract.git](https://github.com/Bishopukpai/ERC-20-token.git)```
 
 Then navigate into the cloned folder:
 
